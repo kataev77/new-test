@@ -1,0 +1,14 @@
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+.neww{
+    width: 150px;
+    height: 150px;
+    color: blue;
+    background-color: burlywood;
+    text-align: center;
+    padding-top: 65px;
+    box-sizing: border-box;
+}
