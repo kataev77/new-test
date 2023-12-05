@@ -20,6 +20,12 @@ table{
     margin-top: 10px;
 }
 tr{
+    border: 5px double black;
+}
+tr:hover{
     text-align: center;
     border: 1px double black;
+    background-color: darkgray;
+    cursor: pointer;
 }
+
