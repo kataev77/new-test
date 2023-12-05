@@ -12,3 +12,14 @@
     padding-top: 65px;
     box-sizing: border-box;
 }
+table{
+    width: 100px;
+    height: 50px;
+    border: 4px double black;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+tr{
+    text-align: center;
+    border: 1px double black;
+}
